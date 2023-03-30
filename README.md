@@ -13,7 +13,7 @@
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-click-the-button-javascript-project.netlify.app/)
+### [HERE](https://fsjs-click-the-button-js-project.netlify.app/)
 
 ***
 
